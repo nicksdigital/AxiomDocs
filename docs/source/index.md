@@ -1,8 +1,8 @@
-# AxiomChain: Overview
+# About AxiomChain Principles
 
 
 
-## Executive Summary
+# Executive Summary
 
 ### Revolutionizing Blockchain Through Vector-Based Quantum Architecture
 
